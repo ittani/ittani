@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ittani
-- 👀 I’m interested in software development 
+- 👀 I’m interested in software development, database management, IT, and software engineer.
 - 🌱 I’m currently learning Python and PHP
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Python, and other programming languages
 - 📫 You can reach me on twitter @ittani_maemo
 
 <!---
