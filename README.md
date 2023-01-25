@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ittani
-- 👀 software engineer student with ALX
-- 🌱 
+- 👀 software engineer in making
+- 🌱 still learning
 - 📫 You can reach me on twitter @ittani_maemo
 
