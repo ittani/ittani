@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @ittani
+- 👋 Hi, I’m Ittani
 - 👀 Java Software Developer
 - 🌱 Mastering JavaScript, Java, PHP, SQL, C#, C++, C, and Python.
-  
-
+- 🔥 Familiar with Node.js, Boostrap, Spring, JQuery, etc.
