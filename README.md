@@ -1,4 +1,5 @@
+# Junior Software Developer
 - 👋 Hi, I’m Ittani
-- 👀 Java Software Developer
-- 🌱 Mastering JavaScript, Java, PHP, SQL, C#, C++, C, and Python.
-- 🔥 Familiar with Node.js, Boostrap, Spring, JQuery, etc.
+- 🔥
+![image](https://github.com/ittani/ittani/assets/42994867/349e7018-0cb3-445b-80a1-01b50d07b99f)
+
