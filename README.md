@@ -24,10 +24,8 @@ I am passionate about continuous learning and staying updated with the latest tr
 ## 📫 Contact
 
 - **LinkedIn:** [Ittani Maemo on LinkedIn](https://www.linkedin.com/in/ittani-maemo-3b6721b5?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B2MUu7xuhSMKhecOHvDThbA%3D%3D)
-- **Email:** your.email@example.com
-- **Portfolio:** [IttaniMaemo.dev](https://ittanimaemo.dev)
 
-Feel free to connect with me on LinkedIn or reach out via email. I'm open to collaborations, discussions, and always eager to learn from the community.
+Feel free to connect with me on LinkedIn. I'm open to collaborations, discussions, and always eager to learn from the community.
 
 ## 🤝 Let's Connect
 
