@@ -1,4 +1,4 @@
-# Ittani Maemo - Junior Software Developer
+# Ittani Maemo - Software Engineer
 
 ## 👋 Introduction
 
